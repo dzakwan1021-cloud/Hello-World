@@ -1,2 +1,1 @@
-This is tutorial in w3School
-Cihuyy
+This is tutorial
